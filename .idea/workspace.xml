@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d967c7a-7429-446b-b0a2-8a59ec3f76e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/add-to-playlists.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/add-to-playlists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/barben-heimer.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/barben-heimer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/binge-watch.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/binge-watch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/hector-death.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/hector-death.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/musk-vs-mark.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/musk-vs-mark.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/napoleon-movie.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/napoleon-movie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/spider-verse.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/spider-verse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/utopia-album.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/config/utopia-album.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/entertainment.html" beforeDir="false" afterPath="$PROJECT_DIR$/magazine-retro-reads-main/qarq90/pages/entertainment.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2X7gYhL1L5mlD4TKryGsgggb8pG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d967c7a-7429-446b-b0a2-8a59ec3f76e0" name="Changes" comment="" />
+      <created>1697985583927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697985583927</updated>
+      <workItem from="1697985584981" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
