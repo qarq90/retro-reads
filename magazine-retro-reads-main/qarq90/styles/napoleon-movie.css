@@ -1,0 +1,60 @@
+ul {
+  color: hotpink;
+}
+
+a {
+  color: #efe1d1;
+}
+
+.n-q {
+  list-style-type: disc;
+}
+
+.quotes {
+  font-size: 1.5rem;
+}
+
+.quotes:hover {
+  scale: 1;
+}
+
+.top-q {
+  animation: 1s linear scaleUp;
+}
+
+.top-q1 {
+  padding-bottom: 3rem;
+}
+
+.top-q2 {
+  padding-top: 3rem;
+}
+
+@keyframes scaleUp {
+  0% {
+    scale: 0.5;
+    transition: ease-in;
+  }
+  100% {
+    transition: ease-in;
+    scale: 1;
+  }
+}
+
+.nap-trailer {
+  font-size: 2.5rem;
+  padding-top: 8rem;
+  color: hotpink;
+  border: 2px solid hotpink;
+  border-radius: 10px;
+  margin-bottom: 3rem;
+  transition: 0.5s all ease-in-out;
+  width: 35rem;
+}
+
+.nap-trailer:hover {
+  width: 45rem;
+  color: #222222;
+  background-color: hotpink;
+  border: hotpink 2px solid;
+}

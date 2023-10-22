@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+
+	<title>Signup | Login</title>
+	<link rel="stylesheet" href="css_js/style_login.css">
+</head>
+
+<body onload="checkcookie()">
+<br>
+
+
+	<div class="container">
+
+		<div class="slider"></div>
+		<div class="btn">
+			<button class="login">Login</button>
+			<button class="signup">Signup</button>
+		</div>
+
+
+		<div class="form-section">
+
+			<!-- login form -->
+			<div class="login-box">
+				<input type="email" class="email ele" id="setmail" placeholder="youremail@gmail.com">
+
+				<input type="password" class="password ele" id="setpass" placeholder="password">
+				
+				<button class="clkbtn"  onclick="loginbtn()">Login</button>
+			</div>
+		
+			<!-- signup form -->
+			<div class="signup-box">
+				<input type="text" class="name ele" name="username" placeholder="Enter your name">
+				
+				<input type="email" class="email ele" id="usermail" placeholder="youremail@email.com">
+				
+				<input type="password" class="password ele" id="userpassword" placeholder="password">
+
+				<button class="clkbtn" onclick="setcookie()">Signup</button>
+			</div>
+		</div>
+	</div>
+	<script src="css_js/index.js"></script>
+	
+</body>
+</html>

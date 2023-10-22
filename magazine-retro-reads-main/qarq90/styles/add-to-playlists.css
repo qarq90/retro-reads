@@ -1,0 +1,150 @@
+a {
+  color: #111111;
+}
+
+.hidden-songs {
+  display: none;
+}
+
+.show-songs {
+  display: contents;
+}
+
+.Cards {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.Card {
+  box-shadow: 5px 5px #111111;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: gray;
+  transition: 0.5s all ease;
+  font-family: "Noto Sans", sans-serif;
+  letter-spacing: 2px;
+}
+
+.Card:hover {
+  scale: 0.95;
+}
+
+.Card > img {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+}
+
+.card-content > h1 {
+  padding: 0.5rem;
+}
+
+.card-content > h2 {
+  padding: 0.5rem;
+}
+
+.card-content > h3 {
+  padding: 0.5rem;
+}
+
+.TS {
+  background: linear-gradient(to left, gold, red);
+}
+
+.ID {
+  background: linear-gradient(to left, #8b0000, #d2b48c);
+}
+
+.FF {
+  background: linear-gradient(-45deg, #ff69b4, #d2b48c);
+}
+
+.DL {
+  background: linear-gradient(45deg, #c0c0c0, #367588);
+}
+
+.MB {
+  background: linear-gradient(to bottom, #d9004c, #333333);
+  color: #ccc;
+}
+
+.SS {
+  background: linear-gradient(to left, #222222, #ccc);
+}
+
+.LUV {
+  background: linear-gradient(to bottom, #ff69b4, #ccc, #ff69b4);
+}
+
+.CG {
+  background: linear-gradient(to left, orange, cyan, #ff69b4);
+}
+
+.PM {
+  color: #ccc;
+  background: linear-gradient(to right, #111111, red);
+}
+
+.LNX {
+  background: linear-gradient(to left, #9acd32, #80daeb);
+}
+
+.DT {
+  background: linear-gradient(to left, tan, tan);
+}
+
+.DC {
+  color: #ccc;
+  background: linear-gradient(to left, hotpink, darkblue);
+}
+
+.OD {
+  background: linear-gradient(to left, darkslategray, gray);
+}
+
+.RR {
+  background: linear-gradient(to left, gray, ghostwhite);
+}
+
+.CP {
+  background: linear-gradient(to right, red, yellow);
+}
+
+.JB {
+  background: linear-gradient(45deg, greenyellow, cadetblue);
+}
+
+.KW {
+  background: linear-gradient(to top, ghostwhite, red);
+}
+
+.TW {
+  color: #ccc;
+  background: linear-gradient(to right, blue, red);
+}
+
+.XXX {
+  background: linear-gradient(to center, #111111, #fff);
+}
+
+.AB {
+  background: linear-gradient(to bottom, powderblue, darkslategray);
+}
+
+.toggleMoreSongs {
+  transition: all ease 0.5s;
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgb(50, 50, 50);
+  border: 2px solid rgba(255, 255, 255, 0.125);
+  border-radius: 10px;
+  color: #efe1d1;
+  font-size: 2rem;
+}

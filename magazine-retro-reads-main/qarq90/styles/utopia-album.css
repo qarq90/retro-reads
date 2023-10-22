@@ -1,0 +1,22 @@
+.album-songs-links {
+  display: flex;
+  flex-direction: column;
+  color: hotpink;
+  list-style-type: disc;
+}
+
+.song-link {
+  text-shadow: #111111 3px 3px;
+  font-size: 1.75rem;
+  letter-spacing: 3px;
+  font-weight: bolder;
+}
+
+.song-link:hover {
+  scale: 0.95;
+}
+
+a {
+  color: hotpink;
+}
+

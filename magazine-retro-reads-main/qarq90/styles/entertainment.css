@@ -1,0 +1,205 @@
+.trending-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 5%;
+}
+
+.trending-div > h1 {
+  margin-bottom: -1rem;
+}
+
+.card {
+  width: 88%;
+  height: 18rem;
+  z-index: 2;
+  backdrop-filter: blur(3px) saturate(200%);
+  -webkit-backdrop-filter: blur(3px) saturate(200%);
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 2px solid rgba(255, 255, 255, 0.125);
+  border-radius: 10px;
+  animation: 1s linear scaleUp;
+  padding: 2rem;
+  transition: ease all 0.5s;
+  box-shadow: 5px 5px #111111;
+}
+
+.card:hover {
+  scale: 0.95;
+}
+
+.card-top {
+  font-family: -apple-system, sans-serif;
+  font-weight: lighter;
+  font-family: "Merriweather", serif;
+  display: flex;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
+.card-top > h1 {
+  text-shadow: #111111 5px 5px;
+  line-height: 3rem;
+  letter-spacing: 2px;
+}
+
+.card-top > img {
+  margin: 0.5rem;
+  width: 125px;
+  height: 125px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.card-content {
+  letter-spacing: 1px;
+  font-size: 1rem;
+  font-family: "Signika Negative", sans-serif;
+  line-height: 1.7rem;
+}
+
+.ccl {
+  padding-left: 2rem;
+}
+
+.c > img {
+  margin-left: 4rem;
+}
+
+. .f > img {
+  margin-right: 4rem;
+}
+
+.g > img {
+  margin-left: 4rem;
+}
+
+.ar {
+  font-size: 100%;
+}
+
+.bar1 {
+  color: hotpink;
+}
+
+.oppen1 {
+  color: orangered;
+}
+
+.nap1 {
+  color: navy;
+}
+
+.nap2 {
+  color: #ffffff;
+}
+
+.nap3 {
+  color: red;
+}
+
+.sp1 {
+  color: red;
+}
+
+.sp2 {
+  color: red;
+}
+
+.hec1 {
+  color: #ffbf37;
+}
+
+.binge1 {
+  color: deepskyblue;
+}
+
+.play1 {
+  color: #9370db;
+}
+
+.fight1 {
+  color: cyan;
+}
+
+.melt1 {
+  color: orange;
+}
+
+.full-card-articles {
+  width: 94%;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-bottom: 5%;
+}
+
+.cardF {
+  font-family: "Signika Negative", sans-serif;
+  z-index: 2;
+  backdrop-filter: blur(3px) saturate(200%);
+  -webkit-backdrop-filter: blur(3px) saturate(200%);
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 2px solid rgba(255, 255, 255, 0.125);
+  border-radius: 10px;
+  width: 100%;
+  margin: 0.5rem 0;
+  padding: 2rem;
+  box-shadow: #111111 5px 5px;
+  transition: 0.5s all ease;
+}
+
+.card > a > .card-top> img{
+  transition: 0.5s all ease;
+}
+
+.card:hover > a > .card-top> img{
+  scale: 1.2;
+}
+
+.cardF:hover {
+  scale: 0.95;
+}
+
+.cardF > a > .card-topF> img{
+  transition: 0.5s all ease;
+}
+
+.cardF:hover > a > .card-topF> img{
+  scale: 1.2;
+}
+
+.card-topF > img {
+  margin: 0.5rem;
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.cardF > a {
+  display: flex;
+  align-items: center;
+}
+
+.card-contentF {
+  padding-left: 5rem;
+}
+
+.cclF {
+  padding-bottom: 1rem;
+  font-family: "Merriweather", serif;
+
+}
+
+.article-summaryF {
+  line-height: 2rem;
+}
+
+.article-summ-date{
+  float: right;
+}
+
+.article-summ-dateF{
+  float: right;
+}

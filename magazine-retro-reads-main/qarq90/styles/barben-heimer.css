@@ -1,0 +1,14 @@
+a {
+  font-size: 1.5rem;
+  color: hotpink;
+}
+
+.trailer {
+  font-family: "Josefin Slab", serif;
+}
+
+.center-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

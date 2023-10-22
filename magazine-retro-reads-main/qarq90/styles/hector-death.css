@@ -1,0 +1,20 @@
+ul {
+  color: hotpink;
+}
+
+.castings {
+  padding: 1rem;
+  list-style-type: disc;
+}
+
+.castings:hover {
+  scale: 0.95;
+}
+
+.hect-adj {
+  margin-top: -7rem;
+}
+
+.img-div > .bb-img {
+  box-shadow: none;
+}
