@@ -53,6 +53,9 @@ login.addEventListener("click", () => {
     function setcookie(){
         
         var mailformat = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+
+        let normieDate = new Date()
+        let expDate = new Date(normieDate.getFullYear(),normieDate.getMonth()+1,normieDate.getUTCDate())
         
         const m = document.getElementById("usermail").value;
         const p = document.getElementById("userpassword").value;
@@ -68,8 +71,8 @@ login.addEventListener("click", () => {
             }
             else
             {
-                document.cookie="useremail="+m+";";
-                document.cookie="userpass="+p+";";
+                document.cookie="useremail="+m+";expires="+expDate;
+                document.cookie="userpass="+p+";expires="+expDate;
             }
 
             
