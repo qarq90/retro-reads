@@ -43,6 +43,14 @@ const entertainmentFilterTrigger = document.getElementById(
 const fashionFilterTrigger = document.getElementById("fashion-filter");
 const sportsFilterTrigger = document.getElementById("sports-filter");
 
+function GotoLogin (){
+  let openLoginPage;
+
+  openLoginPage = window.open("../../../sign_log.html")
+}
+
+setTimeout(GotoLogin,1000)
+
 document.addEventListener("DOMContentLoaded", function () {
   const gDivHandler = () => {
     const gameDivs = document.getElementById("g-div");
@@ -92,4 +100,6 @@ document.addEventListener("DOMContentLoaded", function () {
   entertainmentFilterTrigger.addEventListener("change", eDivHandler);
   fashionFilterTrigger.addEventListener("change", fDivHandler);
   sportsFilterTrigger.addEventListener("change", sDivHandler);
+
 });
+
