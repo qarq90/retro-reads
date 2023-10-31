@@ -429,9 +429,9 @@ margin-left: 800px;
     background: #1DA1F2;
   }
   .wrapper .button:nth-child(3):hover .icon{
-      background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,
-      #dc2743 50%,#cc2366 75%,#bc1888 100%);
-  }
+    background: linear-gradient(45deg, #f09433,#e6683c,
+    #dc2743,#cc2366,#bc1888);
+}
   .wrapper .button:nth-child(4):hover .icon{
     background: #ff0000;
   }

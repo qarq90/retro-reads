@@ -33,7 +33,6 @@ navCatTrigger.addEventListener("click", () => {
 filterTrigger.addEventListener("click", () => {
   navCat.classList.add("hidden-categories");
   settingsSubMenu.classList.toggle("hidden-filter");
-  // filterMenu.classList.toggle("hidden-filter");
   filterMenu.classList.toggle("hidden-filter");
 
 });
