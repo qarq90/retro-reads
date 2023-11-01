@@ -19,8 +19,7 @@ triggerDiv.addEventListener("click", () => {
 settingsTrigger.addEventListener("click", () => {
   settingsSubMenu.classList.toggle("hidden-settings-sub");
   navCat.classList.add("hidden-categories");
-  filterMenu.classList.toggle("hidden-filter");
-  settingsSubMenu.classList.add("hidden-settings-sub");
+  filterMenu.classList.add("hidden-filter");
 });
 
 navCatTrigger.addEventListener("click", () => {
@@ -32,7 +31,5 @@ navCatTrigger.addEventListener("click", () => {
 
 filterTrigger.addEventListener("click", () => {
   navCat.classList.add("hidden-categories");
-  settingsSubMenu.classList.toggle("hidden-filter");
   filterMenu.classList.toggle("hidden-filter");
-
 });
