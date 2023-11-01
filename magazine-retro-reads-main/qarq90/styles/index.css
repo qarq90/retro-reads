@@ -131,3 +131,7 @@ a:hover {
         }
     }
 }
+
+map > area{
+    background-color: aliceblue;
+}
