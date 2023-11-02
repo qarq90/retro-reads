@@ -211,6 +211,7 @@ const articleContainerFull = document.getElementById("popular-div");
 
 function sortArticles() {
     return articleData.sort((a, b) => Math.random() - 0.5);
+    console.log(Math.random() - 0.5)
 }
 
 function deSortArticles() {
