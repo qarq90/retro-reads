@@ -211,12 +211,12 @@ iframe {
   }
 }
 
-.index-title-div{
+.index-title-div {
   display: flex;
   justify-content: space-around;
   align-items: center;
   padding-left: -5%;
-  > ul>li{
+  > ul > li {
     padding-top: 8%;
   }
 }
@@ -273,7 +273,6 @@ iframe {
 }
 
 .backBtn:hover {
-  
   z-index: 2;
   scale: 0.85;
 }
@@ -406,7 +405,6 @@ iframe {
 }
 
 .center-button > a:hover {
-  
   z-index: 2;
   color: #1a1a1a;
   width: 50%;
@@ -498,7 +496,6 @@ footer {
 }
 
 .footer-left > div:hover {
-  
   z-index: 2;
   scale: 0.85;
 }
@@ -521,7 +518,6 @@ footer {
 }
 
 .footer-right > div > a > img:hover {
-  
   z-index: 2;
   scale: 0.85;
 }
