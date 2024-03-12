@@ -1,56 +1,18 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/gamex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/gamex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/gamex?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BK9_voy6VXU?style=social)](https://youtu.be/BK9_voy6VXU)
+Retro-Reads: Your Vintage Magazine Experience
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+Retro-Reads is a nostalgic journey into the world of vintage magazines, offering a curated collection of articles spanning entertainment, fashion, games, and sports. Relive the charm of yesteryears with our meticulously crafted content, carefully selected to transport you back in time.
 
-  <h2 align="center">GameX - Gaming website</h2>
+Features:
 
-  GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+Diverse Content: Explore a rich variety of articles covering entertainment, fashion trends, gaming highlights, and sports events from bygone eras.
+Intuitive Filtering: Seamlessly filter articles by category, allowing you to focus on your preferred topics and interests.
+Immersive Experience: Immerse yourself in the retro ambiance of classic magazines, beautifully recreated for the digital age.
+User-Friendly Interface: Navigate effortlessly through our user-friendly interface, designed for ease of use and optimal browsing experience.
+Download and Execution Steps:
 
-  <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![GameX Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **GameX** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/gamex.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/gamex.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Clone the Repository: Clone the Retro-Reads repository from GitHub to your local machine using the command: git clone https://github.com/qarq90/retro-reads.git.
+Navigate to Directory: Change into the project directory: cd retro-reads.
+Install Dependencies: If required, install any necessary dependencies by following the instructions provided in the project's README file.
+Launch the Website: Open the project in your preferred web browser by double-clicking the index.html file or by running a local server if necessary.
+Explore and Enjoy: Start exploring the Retro-Reads website, browse through the articles, apply filters, and indulge in a delightful journey through retro-inspired content.
+Experience the charm of vintage magazines like never before with Retro-Reads. Dive into a world of timeless elegance, captivating stories, and endless nostalgia.
