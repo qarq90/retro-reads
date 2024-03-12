@@ -11,9 +11,9 @@
 
 # Download and Execution Steps:
 
--  Clone the Repository: Clone the Retro-Reads repository from GitHub to your local machine using the command: git clone https://github.com/qarq90/retro-reads.git.
--  Navigate to Directory: Change into the project directory: cd retro-reads.
--  Install Dependencies: If required, install any necessary dependencies by following the instructions provided in the project's README file.
--  Launch the Website: Open the project in your preferred web browser by double-clicking the index.html file or by running a local server if necessary.
--  Explore and Enjoy: Start exploring the Retro-Reads website, browse through the articles, apply filters, and indulge in a delightful journey through retro-inspired content.
--  Experience the charm of vintage magazines like never before with Retro-Reads. Dive into a world of timeless elegance, captivating stories, and endless nostalgia.
+- Download Zip Archive: Visit the Retro-Reads GitHub repository at https://github.com/qarq90/retro-reads and click on the "Code" button. Select "Download ZIP" to download the project as a zip archive to your local machine.
+- Extract Zip Archive: Locate the downloaded zip archive in your file explorer and extract its contents to a directory of your choice.
+- Navigate to Directory: Open a terminal or command prompt and navigate to the directory where you extracted the zip archive using the cd command.
+- Install Dependencies: If required, install any necessary dependencies by following the instructions provided in the project's README file.
+- Launch the Website: Start a local server if necessary and open the project in your preferred web browser by double-clicking the index.html file or accessing the local server URL.
+- Explore and Enjoy: Begin exploring the Retro-Reads website, browse through the articles, apply filters, and indulge in a delightful journey through retro-inspired content.
